@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
