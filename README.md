@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
 | [1331-rank-transform-of-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1331-rank-transform-of-an-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Enumeration
 |  |
 | ------- |
