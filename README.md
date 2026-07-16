@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
 | [1331-rank-transform-of-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Depth-First Search
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
