@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0160-intersection-of-two-linked-lists) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
