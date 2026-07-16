@@ -1,27 +1,15 @@
 class Solution {
-private:
-    int GCD(int a,int b){
-        if(b==0) return a;
-        return GCD(b,a%b);
-    }
 public:
     long long gcdSum(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>pref(n);
-        int maxel=INT_MIN;
-        for(int i=0;i<nums.size();i++){
-            maxel=max(maxel,nums[i]);
-            pref[i]=GCD(nums[i],maxel);
+        int mx=INT_MIN;
+        for(auto& x:nums){
+            mx=max(mx,x);
+            x=gcd(x,mx);
         }
-        sort(pref.begin(),pref.end());
-        for(auto x:pref){
-            cout<<x<<" ";
-        }
+        sort(nums.begin(),nums.end());
         long long sum=0;
-        int i=0,j=nums.size()-1;
-        while(i<j){
-            sum+=GCD(pref[i],pref[j]);
-            i++,j--;
+        for(int i=0,j=nums.size()-1; i<j; i++,j--){
+            sum+=gcd(nums[i],nums[j]);
         }
         return sum;
     }
