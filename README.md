@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0002-add-two-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0234-palindrome-linked-list) |
 ## Simulation
