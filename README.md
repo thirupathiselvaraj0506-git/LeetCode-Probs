@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0057-insert-interval) |
+| [0287-find-the-duplicate-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0287-find-the-duplicate-number) |
 | [0454-4sum-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0454-4sum-ii) |
 | [0503-next-greater-element-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0733-flood-fill) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0287-find-the-duplicate-number) |
 | [1813-sentence-similarity-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1813-sentence-similarity-iii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0848-shifting-letters) |
 | [1590-make-sum-divisible-by-p](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1590-make-sum-divisible-by-p) |
 | [2381-shifting-letters-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2381-shifting-letters-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
