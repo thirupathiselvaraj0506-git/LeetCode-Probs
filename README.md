@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0018-4sum) |
+| [0054-spiral-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0057-insert-interval) |
 | [0287-find-the-duplicate-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0287-find-the-duplicate-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1260-shift-2d-grid) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1260-shift-2d-grid) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
